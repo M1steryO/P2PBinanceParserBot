@@ -1,3 +1,3 @@
 import os
 
-API_TOKEN = "6038157476:AAHorYrHfL4fi2ZSLo16RjuKYq20cA9T8Ao"
+API_TOKEN = ""
